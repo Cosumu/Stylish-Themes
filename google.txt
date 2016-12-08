@@ -1,0 +1,22 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("google.com.au") {
+  body {
+  background: #fdf6e3 !important;
+    color: #002b36 !important;
+  }
+ 
+  #hdtbSum {
+    background: #fdf6e3 !important;
+  }
+  #slim_appbar {
+    display: none !important;
+  }
+  .sfbgg {
+    background: #fdf6e3 !important;
+  }
+  
+  a {
+    color: #990a1b !important;
+  }
+}
